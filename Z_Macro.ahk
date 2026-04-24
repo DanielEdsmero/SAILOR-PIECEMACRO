@@ -49,7 +49,7 @@ global afkRecCachePath := ""
 ; ══════════════════════════════════════════════════════════════════════════════
 ; GUI
 ; ══════════════════════════════════════════════════════════════════════════════
-g := Gui("+Resize -MaximizeBox", "Boss Macro — AHK v2")
+g := Gui("+Resize -MaximizeBox", "Z-Macro v1")
 g.SetFont("s9 q5", "Segoe UI")
 g.BackColor := "1E1E2E"
 g.SetFont("s9 cWhite", "Segoe UI")
